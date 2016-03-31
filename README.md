@@ -1,4 +1,4 @@
-# GA-Yohubot
+# GA-Hubot
 Youhubot is a slackbot that has much to learn.
 For now it can respond to several simple commands such as:
 
